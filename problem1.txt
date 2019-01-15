@@ -1,0 +1,5 @@
+Algorithm for problem:
+1.)Let us take two numbers , one even and one odd numbers:
+Using while loop to find odd number values and fibonacci sequence first values.
+2.)In result we will obtain even number and every time we get even valued terms while doing sum.
+3.)Using if else ,i will break the loop if the value exceeds greater than 4 million.
